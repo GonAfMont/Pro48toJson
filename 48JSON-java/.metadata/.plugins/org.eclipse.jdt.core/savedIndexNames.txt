@@ -1,0 +1,2 @@
+INDEX VERSION 1.134+D:\PRO\Codigo\48JSON-java\.metadata\.plugins\org.eclipse.jdt.core
+1552056522.index
